@@ -17,53 +17,31 @@ Moro em **Holambra – SP** 🌷 e curso **Desenvolvimento de Software Multiplat
 
 ---
 
-##u aprendendo
+Estou aprendendo
 
-### **Frontend**
+
 <div>
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  
 </div>
 
 ---
 
 ### **Mobile**
 <div>
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
 </div>
-
----
-
-### **Backend**
-<div>
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
-</div>
-
----
 
 ### **Ferramentas e Interesses**
 <div>
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
-</div>
-
----
-
-## 📊 Minhas estatísticas do GitHub
-
-<div align="center">
-
-  https://github-readme-stats.vercel.app/api?username=anarissatti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
-
-  https://github-readme-stats.vercel.app/api/top-langs/?username=anarissatti&layout=compact&theme=tokyonight&hide_border=true
+   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40" height="40"/>
+   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 </div>
-
----
 
 ## ✨ Um pouco mais sobre mim
 - 🌸 Amo aprender dev no meu ritmo e ver evolução contínua  
@@ -76,8 +54,8 @@ Moro em **Holambra – SP** 🌷 e curso **Desenvolvimento de Software Multiplat
 ---
 
 ## 📬 Onde me encontrar
-- 📧 E-mail: *(adicione aqui)*  
-- 🔗 LinkedIn: *(adicione aqui)*  
+- 📧 E-mail: anarissatti2@gmail.com
+- 🔗 LinkedIn: Ana Rissatti
 - 💻 GitHub: [anarissatti](https://github.com/anarissatti)
 
 ---

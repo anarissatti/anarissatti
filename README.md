@@ -1,16 +1,88 @@
-## Hi there 👋
+# 🌸 Ana Beatriz Pereira Rissatti
+### _Estagiária em Desenvolvimento de Sistemas • Sicredi_  
+### _FATEC — 4º ano em Desenvolvimento de Sistemas_
 
-<!--
-**anarissatti/anarissatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/4aBQ9oNjgEQ2k/giphy.gif" width="250">
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏻‍💻 Sobre mim
+Sou a Ana, desenvolvedora em início de carreira 🌱, apaixonada por tecnologia, inovação e por criar soluções que impactem pessoas.
+
+Atualmente sou **Estagiária de Desenvolvimento de Sistemas no Sicredi**, aprendendo diariamente sobre boas práticas, colaboração e desenvolvimento real.
+
+Moro em **Holambra – SP** 🌷 e curso **Desenvolvimento de Software Multiplataforma na FATEC**, no 4º ano.
+
+---
+
+##u aprendendo
+
+### **Frontend**
+<div>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
+</div>
+
+---
+
+### **Mobile**
+<div>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg
+</div>
+
+---
+
+### **Backend**
+<div>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+</div>
+
+---
+
+### **Ferramentas e Interesses**
+<div>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
+</div>
+
+---
+
+## 📊 Minhas estatísticas do GitHub
+
+<div align="center">
+
+  https://github-readme-stats.vercel.app/api?username=anarissatti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
+
+  https://github-readme-stats.vercel.app/api/top-langs/?username=anarissatti&layout=compact&theme=tokyonight&hide_border=true
+
+</div>
+
+---
+
+## ✨ Um pouco mais sobre mim
+- 🌸 Amo aprender dev no meu ritmo e ver evolução contínua  
+- 🚗 Vida corrida entre estágio, faculdade e viagens Jaguariúna ↔ Holambra  
+- 🎯 Objetivos atuais:
+  - Evoluir muito em **Angular** e **Flutter**  
+  - Desenvolver projetos reais (incluindo o app de pets perdidos 🐾)  
+  - Conquistar minha vaga efetiva no dev 💚  
+
+---
+
+## 📬 Onde me encontrar
+- 📧 E-mail: *(adicione aqui)*  
+- 🔗 LinkedIn: *(adicione aqui)*  
+- 💻 GitHub: [anarissatti](https://github.com/anarissatti)
+
+---
+
+## 🌟 Frase que me guia
+> _“Evoluir um pouquinho todo dia ainda é evolução.”_
+
+---
